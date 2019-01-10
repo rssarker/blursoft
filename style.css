@@ -1,0 +1,106 @@
+*{margin:0;padding:0;}
+.fix{overflow:hidden;}
+body{ font-size:20px;
+ font-family:Monotype Corsiva;
+ line-height:20px;
+ background:url(images/bg.jpg);}
+ 
+ .floatleft{float:left}
+ .floatright{float:right}
+
+ a{text-decoration:none;color:#000}
+ a:hover{text-decoration:none;color:green;}
+ 
+ 
+ .main-area{width:960px;
+			margin:0 auto;
+			padding-top:30px;
+			padding-bottom:50px;}
+
+			
+			.header{width:960px;
+			min-height:200px;
+			background: url(images/header.jpg);
+			border:radius 1px solid;}
+			h2{padding-top:70px;color:white;}
+			.search_area{float:right;margin:0;
+					padding:0;padding-top:80px;}
+ 
+		.google{width:150px;
+				height:30px;
+				color:green;
+				background:#FA3C00;
+				text-align:center;
+				border-radius:10px;}
+		.go{width:70px;
+			height:25px;
+			color:green;
+			background:#522608;
+			text-align:center;
+			border-radius:10px;}
+ 
+ 
+.imag{width:960px;background:#ffc655;}
+.imag-1{padding-top:20px;}
+.imag-2{float:left;}
+.imag-3{float:right;}
+ 
+ .middle-area{width:966px;
+				background: url(images/background.png);
+				min-height:310px;}
+ .mid-1{width:220px;
+			float:left;
+			background: url(images/sidebar-menu-bg.gif)no-repeat;
+			width:460px;
+			height:530px;}
+ .mid-1 p{padding-top:85px;
+			padding-bottom:25px;
+			padding-left:50px;
+			padding-right:40px;
+			height:}
+
+ 
+ .sidebar{width:220px;
+				float:right;
+				padding-top:25px;padding-right:50px;
+				min-height:300px;
+				background:#fa3c00;
+				margin-top:18px;margin-right:35px;
+				border-radius:15px; color:#ddd;}
+
+				.sidebar ul{list-style:none}
+.sidebar ul li{}
+				.sidebar ul li a{font-size:25px;
+								text-decoration:none;
+									display:block;
+								letter-spacing:-1px;
+								padding:10px;;padding-left:40px;}
+				.sidebar ul li a:hover{color:white;
+                 ;min-height:50px;}
+
+
+
+.content {width:960px;
+          min-height:400px;background:#ffc655;}
+ 
+
+ 
+ 
+ 
+ .slider{float:left;border:1px solid #990505;min-height:350px;
+			width:930px;margin:10px;}
+
+
+ .footer{background:url(images/background.gif);
+								height:80px;width:960px;}
+			.footer h4{font-family:arial;
+								color:green;
+								padding:20px;}
+ 
+			.footer p{padding-left:600px;
+						color:blue;}
+ 
+ 
+ 
+ 
+ 
